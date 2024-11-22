@@ -13,5 +13,5 @@ dependency `firebase-auth 12.4.1`, `firebase-app 12.4.1`, `external-dependency-m
 ```csharp
 "com.google.firebase.auth": "https://github.com/firebase-unity/firebase-auth.git#12.4.1",
 "com.google.firebase.app": "https://github.com/firebase-unity/firebase-app.git#12.4.1",
-"com.google.external-dependency-manager": "https://github.com/google-unity/external-dependency-manager.git#1.2.183",
+"com.google.external-dependency-manager": "https://github.com/googlesamples/unity-jar-resolver.git?path=upm#v1.2.183",
 ```
